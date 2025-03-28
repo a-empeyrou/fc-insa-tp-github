@@ -1,0 +1,2 @@
+#l1: HEADER test foo.txt
+#l2: content init
