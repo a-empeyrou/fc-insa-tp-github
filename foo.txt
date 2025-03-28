@@ -1,2 +1,2 @@
 #l1: HEADER test foo.txt
-#l2: content init
+#l2: I am modifying this line.
