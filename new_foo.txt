@@ -1,0 +1,5 @@
+#l1: HEADER
+#l2: script starts here
+n  =10
+for i in range (n):
+	print('Hello World')
